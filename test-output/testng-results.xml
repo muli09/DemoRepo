@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29325" started-at="2019-06-12T04:02:57Z" finished-at="2019-06-12T04:03:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29325" started-at="2019-06-12T04:02:57Z" finished-at="2019-06-12T04:03:26Z">
+      <class name="com.crm.qa.tests.CompaniesPageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.crm.qa.tests.CompaniesPageTest@3bfdc050]" name="setUP" is-config="true" duration-ms="11131" started-at="2019-06-12T00:02:57Z" finished-at="2019-06-12T00:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validateAdvancedSearchCompanies()[pri:1, instance:com.crm.qa.tests.CompaniesPageTest@3bfdc050]" name="validateAdvancedSearchCompanies" duration-ms="68" started-at="2019-06-12T00:03:08Z" finished-at="2019-06-12T00:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAdvancedSearchCompanies -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.tests.CompaniesPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="262" started-at="2019-06-12T00:03:08Z" finished-at="2019-06-12T00:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.crm.qa.tests.CompaniesPageTest@3bfdc050]" name="setUP" is-config="true" duration-ms="8553" started-at="2019-06-12T00:03:09Z" finished-at="2019-06-12T00:03:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="createNewCompany(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.tests.CompaniesPageTest@3bfdc050]" name="createNewCompany" duration-ms="8182" started-at="2019-06-12T00:03:18Z" data-provider="getCRMTestData" finished-at="2019-06-12T00:03:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Accenture]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nagalakshmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shell]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hot]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Partner]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Event]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9632871879]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[hello@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCompany -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.tests.CompaniesPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="248" started-at="2019-06-12T00:03:26Z" finished-at="2019-06-12T00:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.tests.CompaniesPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
